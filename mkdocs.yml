@@ -1,0 +1,15 @@
+site_name: "io.whong.tech"
+
+theme:
+  name: "material"
+  palette:
+    primary: amber
+
+plugins:
+  - search
+  - blog
+
+nav:
+  - Home: index.md
+  - Blog:
+      - blog/index.md
